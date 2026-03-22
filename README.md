@@ -25,3 +25,8 @@ The hardware designs are provided as Autodesk EAGLE files.
 3. Open the `.sch` and `.brd` files to view, modify, or manufacture the schematics and PCB designs.
 
 *Note: To run firmware on the Processor Module, you can use PlatformIO or the standard ESP-IDF / Arduino IDE configured for the ESP32-PICO-D4.*
+
+## Contributors
+- **Bartosz Kępa**
+- **Jan Jamro**
+- **Aleksandra Kuś**
